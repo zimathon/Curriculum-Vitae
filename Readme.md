@@ -19,6 +19,7 @@ Educational | 熊本大学工学部卒業
     - Python
         - Flask
         - 分析や機械学習用に少々
+    - Rails
     - Go
       - ログ基盤用のAPIとして開発
     - ETL
